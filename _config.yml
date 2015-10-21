@@ -1,0 +1,23 @@
+name: test99
+favicon: null
+layout_spectrum: 0.2996002552099526
+typography_spectrum: 0.38659438700415194
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9993572337552905
+  lightness: 0.4380612764507532
+  saturation: 0.3644296620041132
+  rhythmicContrast: 0.25548699451610446
+purpose: []
